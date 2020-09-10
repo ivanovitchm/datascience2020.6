@@ -3,4 +3,4 @@
 ### Data Science I 2020.6
 
 1. Lesson #01
-  - Course Outline
+    - Course Outline
