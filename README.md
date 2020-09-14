@@ -4,3 +4,6 @@
 
 1. Lesson #01
     - Course Outline
+2. Lesson #02
+    - Guided project
+    - Evaluating social distance using Google Mobility Report   
