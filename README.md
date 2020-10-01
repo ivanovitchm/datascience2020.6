@@ -11,4 +11,8 @@
 	- Combination Data with Pandas
 		- Concat
 		- Merge
+	- Transforming Data with Pandas
+		- Map, Apply, ApplyMap
+		- Melt
+		- Bonus: animated plot using plotly
    
