@@ -15,4 +15,8 @@
 		- Map, Apply, ApplyMap
 		- Melt
 		- Bonus: animated plot using plotly
+4. Lesson #04
+	- Data cleaning
+	- Working with string in pandas
+	- Exploring vectorized string methods
    
