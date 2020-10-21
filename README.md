@@ -19,4 +19,7 @@
 	- Data cleaning
 	- Working with string in pandas
 	- Exploring vectorized string methods
+5. Lesson #05
+	- Data cleaning advanced
+	- Regular expression
    
