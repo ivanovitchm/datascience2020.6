@@ -32,4 +32,5 @@
 		- Violin
 		- Scatter and Marginal Plot
 		- Coordinate and Categories Parallel
+	- Dash app
 
