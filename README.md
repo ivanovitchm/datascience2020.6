@@ -22,4 +22,14 @@
 5. Lesson #05
 	- Data cleaning advanced
 	- Regular expression
-   
+6. Lesson #06
+	- Matplotlib Vs. Plotly
+	- Plotly Library Graphics
+		- Histogram
+		- Line
+		- Bar
+		- Box
+		- Violin
+		- Scatter and Marginal Plot
+		- Coordinate and Categories Parallel
+
