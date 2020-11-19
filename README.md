@@ -33,4 +33,8 @@
 		- Scatter and Marginal Plot
 		- Coordinate and Categories Parallel
 	- Dash app
+7. Lesson #07 
+	- Fundamentals of Complex Network Analysis
+	- Introduction to NetworkX
+	- CNA DataViz
 
