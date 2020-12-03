@@ -42,3 +42,12 @@
 	- Combine NetworkX & Gephi
 	- Case study I: network of nutrients and food types
 	- Case study II: network of Wikipedia Pages
+9. Lesson #09
+	- Create Networks from Adjacency and Incidence Matrices
+	- Generate Synthetic Networks
+	- Measuring Networks
+		- Global measures
+		- Explore neighborhood
+		- Think in terms of paths
+		- Choose the right centralities
+
